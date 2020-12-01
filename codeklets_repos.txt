@@ -4,3 +4,4 @@ https://github.com/saberone/aoc2020
 https://github.com/redmar/aoc2020
 https://github.com/jdongelmans/aoc2020
 https://github.com/WJWH/advent_of_code_2020
+https://github.com/arjankruithof/adventofcode 
