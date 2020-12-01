@@ -2,3 +2,4 @@ https://github.com/g2udevelopment/aoc2020
 https://github.com/bernardkroes/advent_of_code_2020
 https://github.com/saberone/aoc2020
 https://github.com/redmar/aoc2020
+https://github.com/jdongelmans/aoc2020
