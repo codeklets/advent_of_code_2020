@@ -6,3 +6,4 @@ https://github.com/jdongelmans/aoc2020
 https://github.com/WJWH/advent_of_code_2020
 https://github.com/arjankruithof/adventofcode 
 https://github.com/JosAikema/adventofcode2020
+https://github.com/gormac/advent-of-code-2020
